@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586270744977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4043013402",
+    "id" : "C1872EF8",
+    "lastKnownWriteTime" : 1586270039,
+    "last_content_update" : 1586270039,
+    "path" : "~/Documents/Product/analyzeIPLBowlers.R",
+    "project_path" : "analyzeIPLBowlers.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

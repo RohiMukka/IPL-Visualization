@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586270745608.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2358305111",
+    "id" : "EB67B034",
+    "lastKnownWriteTime" : 1586270252,
+    "last_content_update" : 1586270252,
+    "path" : "~/Documents/Product/analyzeIPLMatches.R",
+    "project_path" : "analyzeIPLMatches.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

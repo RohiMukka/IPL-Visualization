@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586270748353.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4216366009",
+    "id" : "3E589B3D",
+    "lastKnownWriteTime" : 1586270052,
+    "last_content_update" : 1586270052,
+    "path" : "~/Documents/Product/funcs.R",
+    "project_path" : "funcs.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586270746675.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2530845810",
+    "id" : "41A0D40D",
+    "lastKnownWriteTime" : 1586270271,
+    "last_content_update" : 1586270271,
+    "path" : "~/Documents/Product/analyzeIPLTeamPerfOverall.R",
+    "project_path" : "analyzeIPLTeamPerfOverall.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586270747837.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4077258538",
+    "id" : "64519E84",
+    "lastKnownWriteTime" : 1586270056,
+    "last_content_update" : 1586270056,
+    "path" : "~/Documents/Product/definitions.R",
+    "project_path" : "definitions.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

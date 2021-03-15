@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586270748920.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1692132559",
+    "id" : "6B8C2A84",
+    "lastKnownWriteTime" : 1586270061,
+    "last_content_update" : 1586270061,
+    "path" : "~/Documents/Product/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
